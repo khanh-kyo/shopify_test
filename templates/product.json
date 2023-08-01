@@ -50,6 +50,13 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "c5965721-2ab0-4201-a649-7b41afe6d41f": {
+          "type": "shopify:\/\/apps\/app-test\/blocks\/app-block\/6112803c-2c9d-47a1-9c19-fece2f049a40",
+          "settings": {
+            "heading": "Cute Puppy Gallery",
+            "description": "A simple app block that shows a grid of images that can be customized by the merchant. Each image can be selected to show a popup with the full-sized image."
+          }
         }
       },
       "block_order": [
@@ -60,7 +67,8 @@
         "price",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "c5965721-2ab0-4201-a649-7b41afe6d41f"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -96,27 +104,6 @@
     },
     "1681894640f661eef7": {
       "type": "apps",
-      "blocks": {
-        "e909dbc4-e508-40f8-b5d5-1be2edada849": {
-          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {
-          }
-        },
-        "6e156a9e-a234-4bfd-aa9f-25102974a884": {
-          "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {
-            "stars_fill_color": "#000000",
-            "star_size": 15,
-            "text_align": "center",
-            "product": "{{product}}",
-            "stars_text_empty": "No reviews"
-          }
-        }
-      },
-      "block_order": [
-        "e909dbc4-e508-40f8-b5d5-1be2edada849",
-        "6e156a9e-a234-4bfd-aa9f-25102974a884"
-      ],
       "settings": {
         "include_margins": true
       }
