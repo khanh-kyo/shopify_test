@@ -150,6 +150,12 @@
         "settings": {
           "buttonColor": "#000000"
         }
+      },
+      "8622091842281374579": {
+        "type": "shopify:\/\/apps\/app-test\/blocks\/app-embed\/6112803c-2c9d-47a1-9c19-fece2f049a40",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
