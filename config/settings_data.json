@@ -142,7 +142,16 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "17750527268961735830": {
+        "type": "shopify:\/\/apps\/test\/blocks\/bookings\/30224d8e-d496-4431-9bdd-2dac7ea1d5c7",
+        "disabled": false,
+        "settings": {
+          "buttonColor": "#000000"
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
