@@ -11,7 +11,7 @@
         "vendor": {
           "type": "text",
           "settings": {
-            "text": "{{ product.vendor }}",
+            "text": "Snowboard Vendor",
             "text_style": "body"
           }
         },
@@ -50,6 +50,13 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "9bcb0003-c3db-4fda-9933-73556e34a35e": {
+          "type": "shopify:\/\/apps\/app-test\/blocks\/app-block\/6112803c-2c9d-47a1-9c19-fece2f049a40",
+          "settings": {
+            "heading": "Cute Puppy Gallery",
+            "description": "A simple app block that shows a grid of images that can be customized by the merchant. Each image can be selected to show a popup with the full-sized image."
+          }
         }
       },
       "block_order": [
@@ -60,7 +67,8 @@
         "price",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "9bcb0003-c3db-4fda-9933-73556e34a35e"
       ],
       "settings": {
         "enable_sticky_info": true,
